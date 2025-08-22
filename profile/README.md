@@ -1,4 +1,4 @@
-## RimWorld DLC Unlocker - Unlock All Expansions with Ease
+## RimWorld DLC Unlocker [ODYSSEY UPDATE]
 
 ### ✔️ Unlocks All DLCs Up to: `v1.6.4409` - *Odyssey Included* ⚗️  
 ### 🔓 **Tool Version: `v1.6.3`** (Odyssey update)  
@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Download:***
 
-- [💾 v1.6.3 Release]() = `*Tool files & folder*`
+- [💾 v1.6.3 Release]() = `*Unlocker & DLCs*`
 
 ---
 
